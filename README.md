@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello from the other side 👋 
+ I'm Mas Aji Pamungkas.<br>
+ Are you coming to looking for just a code that works ? So i think here is not the place that you are looking for. <br>
 
-<!--
-**Ajilagi/Ajilagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Code isn't just a bunch of courier new text with some bracket or maybe another semicolon. It's like an art, should be beauty, make an illusion and enjoyable. Maybe it can't be understood by everyone, but behind that, there was an elegant abstraction. &mdash; @Ajilagi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 🔶 My Core
+- 📊 &mdash; Statistic. <br> 
+  ![github stats](https://github-readme-stats.vercel.app/api?username=Ajilagi&show_icons=true)
+  
+### 👀 Go for another peek ? 
+- LinkedIn: https://www.linkedin.com/in/mas-aji-pamungkas-867620187
+- Instagram: https://instagram.com/ajilagi
+- Facebook: https://facebook.com/masaji.pamungkas
+- Twitter: https://twitter.com/Ajilagi
