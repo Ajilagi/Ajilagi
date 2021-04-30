@@ -8,7 +8,7 @@
 - 📊 &mdash; Statistic. <br> 
   ![github stats](https://github-readme-stats.vercel.app/api?username=Ajilagi&show_icons=true)
   
-### 👀 Go for another peek ? 
+### 👀 Peek More ? 
 - LinkedIn: https://www.linkedin.com/in/mas-aji-pamungkas-867620187
 - Instagram: https://instagram.com/ajilagi
 - Facebook: https://facebook.com/masaji.pamungkas
