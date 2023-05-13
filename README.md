@@ -11,7 +11,7 @@
  ![github stats](https://github-readme-stats.vercel.app/api?username=Ajilagi&show_icons=true)
   
 ### 👀 Peek More ? 
-- LinkedIn: https://www.linkedin.com/in/mas-aji-pamungkas-867620187
+- LinkedIn: https://www.linkedin.com/in/ajilagi
 - Instagram: https://instagram.com/ajilagi
 - Facebook: https://facebook.com/masaji.pamungkas
 - Twitter: https://twitter.com/Ajilagi
